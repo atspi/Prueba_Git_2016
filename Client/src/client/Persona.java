@@ -19,8 +19,5 @@ public class Persona {
         return DNI;
     }
 
-    public Persona() {
-
-        super();
-    }
+  
 }

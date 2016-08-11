@@ -12,9 +12,7 @@ public class Profesor extends Persona {
         return materia;
     }
 
-    public Profesor() {
-        super();
-    }
+ 
 
     public Profesor(String string, String string1) {
         super(string, string1);
